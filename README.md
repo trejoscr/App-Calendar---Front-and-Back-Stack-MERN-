@@ -1,6 +1,14 @@
 # App-Calendar - Front and Backend (Stack MERN)
 
-REACT: App Calendar - Front and Backend (Stack MERN)
+MERN - Mongo + Express + React + Node
+
+Hooks and Custom Hooks
+
+JWT
+
+Mongoose
+
+...
 
 ## Requirements
 
