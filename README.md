@@ -8,6 +8,8 @@ JWT
 
 Mongoose
 
+API Rest
+
 ...
 
 ## Requirements
