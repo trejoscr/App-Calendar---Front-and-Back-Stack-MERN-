@@ -1,16 +1,44 @@
-# App-Calendar - Front and Backend (Stack MERN)
+# React App-Calendar - Front and Backend (Stack MERN)
 
-MERN - Mongo + Express + React + Node
+Here is a brief list of the fundamental topics applied in this project:
 
-Hooks and Custom Hooks
+-MERN - Mongo + Express + React + Node
+-Material UI  
+-Redux  
+-Firebase  
+-FireStore  
+-Redux Devtools  
+-Thunk  
+-Forms  
+-Google SignIn  
+-Asynchronous Actions  
+-File Selection and Upload  
+-Animations  
+-Modals  
+-MomentJS  
+-Date Handling  
+-Node  
+-Express  
+-Mongoose  
+-Models  
+-Controllers  
+-Express Middlewares  
+-JWT  
+-Payloads  
+-Encryption  
+-Routes  
+-CORS  
+-Token Revalidation  
+-MongoDB  
+-MongoAtlas  
+-MongoCompass  
+-Mongoose  
+-Hooks and Custom Hooks  
+-REST API
 
-JWT
+## Demo
 
-Mongoose
-
-API Rest
-
-...
+Check out the live demo of the application here: [Application Demo](https://journal-app-amt-react.netlify.app/)
 
 ## Requirements
 
